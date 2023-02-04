@@ -5730,7 +5730,7 @@ button.close {
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  width: 100%;
+  width: 80%;
 }
 .carousel-inner > .item {
   display: none;
@@ -5742,7 +5742,7 @@ button.close {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   line-height: 1;
 }
